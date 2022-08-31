@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e03c2aa-4fb3-46f8-8083-b44eb5158436" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project_AutoDrive_Vision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_AutoDrive_Vision.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/for/17539.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/for/17624.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/for/17743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/for/17876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/for/18009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/right/17540.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/right/17626.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/right/17745.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/right/17878.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save/2022-07-26-23-57-44/right/18012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,34 +48,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Project_AutoDrive_Vision",
+    "last_opened_file_path": "D:/Project_AutoDrive_Vision/lh/traffic_light",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_AutoDrive_Vision\lh\traffic_light" />
       <recent name="D:\Project_AutoDrive_Vision" />
+      <recent name="D:\Project_AutoDrive_Vision\PythonAPI" />
+      <recent name="D:\Project_AutoDrive_Vision\lh" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_AutoDrive_Vision\lh\traffic_light" />
+      <recent name="D:\Project_AutoDrive_Vision" />
+      <recent name="D:\Project_AutoDrive_Vision\zwp" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Object_detector">
+    <configuration name="Object_detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_AutoDrive_Vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\zwp\.conda\envs\autodrive\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zwp" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zwp/Object_detector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,9 +91,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="auto_drive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_AutoDrive_Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lh" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lh/auto_drive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_train_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_AutoDrive_Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zwp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zwp/get_train_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="planner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_AutoDrive_Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lh" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lh/planner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reference_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_AutoDrive_Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zwp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zwp/reference_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.get_train_dataset" />
+      <item itemvalue="Python.reference_model" />
+      <item itemvalue="Python.Object_detector" />
+      <item itemvalue="Python.auto_drive" />
+      <item itemvalue="Python.planner" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Object_detector" />
+        <item itemvalue="Python.reference_model" />
+        <item itemvalue="Python.get_train_dataset" />
+        <item itemvalue="Python.auto_drive" />
+        <item itemvalue="Python.planner" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +210,18 @@
       <workItem from="1654650369362" duration="642000" />
       <workItem from="1654865057411" duration="317000" />
       <workItem from="1658850753102" duration="968000" />
+      <workItem from="1658896684094" duration="310000" />
+      <workItem from="1658996059817" duration="2442000" />
+      <workItem from="1659335060238" duration="7526000" />
+      <workItem from="1659424941346" duration="85000" />
+      <workItem from="1659501488217" duration="945000" />
+      <workItem from="1659854723263" duration="3007000" />
+      <workItem from="1660052835570" duration="15797000" />
+      <workItem from="1660717663757" duration="7965000" />
+      <workItem from="1661221743589" duration="4137000" />
+      <workItem from="1661235434192" duration="15859000" />
+      <workItem from="1661753913778" duration="593000" />
+      <workItem from="1661780918778" duration="26539000" />
     </task>
     <servers />
   </component>
@@ -96,13 +233,58 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zwp/Object_detector.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$reference_model.coverage" NAME="reference_model 覆盖结果" MODIFIED="1661916414322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$Nosetest__test_seg_py__.coverage" NAME="Nosetest (test_seg.py 内) 覆盖结果" MODIFIED="1659337612594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$lxf3.coverage" NAME="lxf3 覆盖结果" MODIFIED="1660720807694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$get_train_dataset__1_.coverage" NAME="get_train_dataset (1) 覆盖结果" MODIFIED="1661242122508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$test_seg.coverage" NAME="test_seg 覆盖结果" MODIFIED="1661842582444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$rgb_camera_test.coverage" NAME="rgb_camera_test 覆盖结果" MODIFIED="1661851539935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$Yolo_reference__1_.coverage" NAME="Yolo_reference (1) 覆盖结果" MODIFIED="1661267557240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$train_model.coverage" NAME="train_model 覆盖结果" MODIFIED="1661834703398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$get_train_dataset.coverage" NAME="get_train_dataset 覆盖结果" MODIFIED="1661915614256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$lxf2.coverage" NAME="lxf2 覆盖结果" MODIFIED="1660724657646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$convert_traffic_light__1_.coverage" NAME="convert_traffic_light (1) 覆盖结果" MODIFIED="1660116450324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$manual_control.coverage" NAME="manual_control 覆盖结果" MODIFIED="1661840886940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAPI/examples" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$lane_detector.coverage" NAME="lane_detector 覆盖结果" MODIFIED="1661844023390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lh/lane_detection" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$Object_detector.coverage" NAME="Object_detector 覆盖结果" MODIFIED="1661919690695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$1.coverage" NAME="1 覆盖结果" MODIFIED="1660116836750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$lxf.coverage" NAME="lxf 覆盖结果" MODIFIED="1660720546113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$planner.coverage" NAME="planner 覆盖结果" MODIFIED="1661877279771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lh" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$rgb_camera_test__1_.coverage" NAME="rgb_camera_test (1) 覆盖结果" MODIFIED="1659341091281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$Yolo_reference.coverage" NAME="Yolo_reference 覆盖结果" MODIFIED="1661221788636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$auto_drive.coverage" NAME="auto_drive 覆盖结果" MODIFIED="1661878239505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lh" />
     <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$test.coverage" NAME="test 覆盖结果" MODIFIED="1658851062134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$catch_both_seg_rgb_forward.coverage" NAME="catch_both_seg_rgb_forward 覆盖结果" MODIFIED="1661224899487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zwp" />
+    <SUITE FILE_PATH="coverage/Project_AutoDrive_Vision$openvino_lane_detector.coverage" NAME="openvino_lane_detector 覆盖结果" MODIFIED="1661843818559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lh/lane_detection" />
   </component>
 </project>
